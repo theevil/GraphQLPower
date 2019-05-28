@@ -1,0 +1,9 @@
+# name
+# createdAt
+# [todoId]
+
+type Resolucion {
+    _id: String!
+    name: String!
+
+}
